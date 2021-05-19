@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.row .container-fluid p {
+    color: #FBFBFB;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.container .container-fluid h3 {
+    color: #D79A2B;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+
+}
+.container .container-fluid h3 {
+}
+.img-box.col-md-7.px-0.mx-auto .container p {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-size: large;
+}
+.btn-box .container-fluid h2 {
+    color: #D79A2B;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: xx-large;
+}
